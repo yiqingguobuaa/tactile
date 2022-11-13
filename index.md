@@ -4,8 +4,6 @@ layout: default
 ---
 ## Welcome to Yiqing Guo's homepage
 
-Copyright 2022 Cheng Soon Ong.
-
 ![a portrait](static/images/yiqing_guo_photo.jpg){:style="float: right" width="30%"}
 
 ### **About me**
