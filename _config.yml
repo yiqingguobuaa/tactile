@@ -17,7 +17,7 @@ title: Yiqing Guo's Homepage
 email: yiqing.guo.buaa@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
    Researcher in AI for Remote Sensing
-#baseurl: "/tactile" # the subpath of your site, e.g. /blog.
+baseurl: "" # the subpath of your site, e.g. /blog.
 url: "yiqingguobuaa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: ""
 github_username:  yiqingguobuaa
