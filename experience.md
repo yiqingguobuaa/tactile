@@ -27,7 +27,7 @@ I maintained and improved the cloud-based crop management platform FluroSense.
 
 ### 2018.03 — 2019.03: Casual Academic (Part Time)
 
-**School of Engineering and IT, University of New South Wales (Canberra Campus at Australian Defence Force Academy), Canberra, Australia**
+**School of Engineering and IT, University of New South Wales (Canberra Campus), Canberra, Australia**
 
 I demonstrated labs for the undergraduate course Signals and Systems.
 

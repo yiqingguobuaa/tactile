@@ -5,7 +5,7 @@ layout: default
 
 ### 2015.11 — 2019.11: Doctor of Philosophy (Remote Sensing)
 
-**University of New South Wales (Canberra Campus at Australian Defence Force Academy), Canberra, Australia**
+**University of New South Wales (Canberra Campus), Canberra, Australia**
 
 - Research Topic: Quantitative rice mapping with remote sensing time series
 - Supervisors: A/Prof. Xiuping Jia (IEEE Fellow) and Dr. David Paull
