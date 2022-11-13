@@ -1,1 +1,1 @@
-Yiqing Guo' homepage site
+Yiqing Guo's personal website
