@@ -27,3 +27,5 @@ Platform.
 I have authored/co-authored more than 20 peer-reviewed publications. My
 first-authored articles have been published in top journals such as ISPRS
 P&RS, IEEE TIP, IEEE TGRS, and IEEE GRSM.
+
+**Contact me at yiqing.guo.buaa@gmail.com**
