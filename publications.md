@@ -6,8 +6,8 @@ layout: default
 ### Journal Articles
 
 [14] Y. Guo, K. Mokany, C. Ong, P. Moghadam, S. Ferrier, and S. R. Levick (2022). Plant biodiversity
-prediction with DESIS hyperspectral data. Submitted to ISPRS Journal of Photogrammetry and Remote
-Sensing.
+prediction with DESIS hyperspectral data. ISPRS Journal of Photogrammetry and Remote
+Sensing, 196, 120-133.
 
 [13] Y. Guo, J. Zhang, A. Farooq, X. Chen, and X. Jia (2020). Activities of the IEEE GRSS University of New
 South Wales Canberra Student Chapter, Australia [Column Article]. IEEE Geoscience and Remote Sensing
@@ -63,7 +63,7 @@ satellites. Journal of Applied Remote Sensing, 7(1), 073466.
 
 [10] Y. Guo, K. Mokany, C. Ong, P. Moghadam, S. Ferrier, and S. R. Levick (2022). Quantitative assessment of
 DESIS hyperspectral data for plant biodiversity estimation in Australia. In Proceedings of the 2022 IEEE
-International Geoscience and Remote Sensing Symposium (IGARSS).
+International Geoscience and Remote Sensing Symposium (IGARSS), 1744-1747.
 
 [9] Y. Guo, X. Jia, D. Paull, J. Zhang, A. Farooq, X. Chen, and M. N. Islam (2019). A drone-based sensing
 system to support satellite image analysis for rice farm mapping. In Proceedings of the 2019 IEEE
