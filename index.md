@@ -8,7 +8,7 @@ layout: default
 
 ### **About me**
 
-Hi, my name is Yiqing Guo. Currently, I am a Postdoctoral Research Fellow at CSIRO, Australia.
+Hi, my name is Yiqing Guo. Currently, I am a Research Scientist at CSIRO, Australia.
 
 I study remote sensing and machine learning, and apply these exciting techniques to agricultural, ecological
 and environmental problems.
@@ -18,11 +18,8 @@ I received my bachelor’s and master’s degrees from Beihang University, in
 South Wales, Canberra Campus, in 2019, all in remote sensing.
 
 After one and a half years of industry experience, I joined the
-Commonwealth Scientific and Industrial Research Organisation (CSIRO) as a 
-CSIRO Early Research Career (CERC) Postdoctoral Research Fellow. My postdoctoral 
-research is jointly supported by the Machine Learning and Artificial 
-Intelligence Future Science Platform and the Space Technology Future Science 
-Platform.
+Commonwealth Scientific and Industrial Research Organisation (CSIRO), where
+I am now a Research Scientist working for CSIRO's AquaWatch Australia mission.
 
 I have authored/co-authored more than 20 peer-reviewed publications. My
 first-authored articles have been published in top journals such as ISPRS
