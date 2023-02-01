@@ -18,7 +18,7 @@ I received my bachelor’s and master’s degrees from Beihang University, in
 South Wales, Canberra Campus, in 2019, all in remote sensing.
 
 After one and a half years of industry experience, I joined the
-Commonwealth Scientific and Industrial Research Organisation (CSIRO), where
+Commonwealth Scientific and Industrial Research Organisation (CSIRO) in 2020, where
 I am now a Research Scientist working for CSIRO's AquaWatch Australia mission.
 
 I have authored/co-authored more than 20 peer-reviewed publications. My
