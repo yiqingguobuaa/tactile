@@ -109,18 +109,18 @@ on Agro-Geoinformatics, 11–14 August 2014, Beijing, China.
 
 ### Theses
 
-[1] Y. Guo (2019). Quantitative rice mapping with remote sensing image time series. PhD Thesis. The
+[2] Y. Guo (2019). Quantitative rice mapping with remote sensing image time series. PhD Thesis. The
 University of New South Wales.
 
-[2] Y. Guo (2015). Early detection of crop stress with hyperspectral remote sensing data. Master’s Thesis.
+[1] Y. Guo (2015). Early detection of crop stress with hyperspectral remote sensing data. Master’s Thesis.
 Beihang University [In Chinese]. **Excellent Thesis Award**
 
 ### Granted Patents
 
-[1] F. Zhao and Y. Guo (2014). A method for spectral feature extraction from hyperspectral reflectance data
+[2] F. Zhao and Y. Guo (2014). A method for spectral feature extraction from hyperspectral reflectance data
 based on global sensitivity analysis. Patent Grant No.: CN103714341A
 
-[2] F. Zhang, Y. Guo, P. Zhang, Y. Zhao, and H. Zhao (2014). A method for retrieval of field component
+[1] F. Zhang, Y. Guo, P. Zhang, Y. Zhao, and H. Zhao (2014). A method for retrieval of field component
 temperature based on global optimization algorithm. Patent Grant No.: CN103823994A
 
 
