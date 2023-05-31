@@ -7,8 +7,7 @@ layout: default
 **University of New South Wales (Canberra Campus), Canberra, Australia** <br>
 Research Topic: Quantitative rice mapping with remote sensing time series <br>
 Supervisors: A/Prof. Xiuping Jia (IEEE Fellow) and Dr. David Paull <br>
-Awards: IEEE Grand Student Challenge Fund (Only five projects worldwide are funded) |
-UNSW TFS Scholarship
+Awards: IEEE Grand Student Challenge Fund (Only five projects worldwide are funded) / UNSW TFS Scholarship
 
 ### 2012.09 — 2015.01: Master of Engineering (Photogrammetry and Remote Sensing) <br>
 **Beihang University, Beijing, China** <br>
