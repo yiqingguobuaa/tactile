@@ -5,7 +5,7 @@ layout: default
 
 ### Journal Articles
 
-[17] Y. Guo, K. Mokany, P. Moghadam, J. Yang, A. Stobo-Wilsond, S. Ferrier, and S. R. Levick (2023). A geolocation-encoded Transformer architecture for plant species richness mapping in Australia with Landsat imagery. Under Review.
+[17] Y. Guo, K. Mokany, S. R. Levick, J. Yang, S. Ferrier, and P. Moghadam (2023). A geolocation-encoded Transformer architecture for plant species richness mapping in Australia with Landsat imagery. Under Review.
 
 [16] F. Zhao, W. Ma, J. Zhao, Y. Guo, and J. Li (2023).  Global reconstruction of the spectrum of terrestrial chlorophyll fluorescence: First Results With TROPOMI. Under Review.
 
