@@ -7,7 +7,7 @@ layout: default
 
 [17] Y. Guo, K. Mokany, S. R. Levick, J. Yang, S. Ferrier, and P. Moghadam (2024). Spatioformer: A geolocation-encoded Transformer architecture for continental-scale plant species richness prediction and mapping. Under Review.
 
-[16] J. Yang, H. Zhang, Y. Guo, R. J. Donohue, T. R. McVicar, S. Ferrier, W. Müller, X. Lü, Y. Fang, X. Wang, P. B. Reich, X. Han, and K. Mokany (2024). Multidecadal trends of terrestrial plant nitrogen availability uncovered by satellite. Under Review.
+[16] J. Yang, H. Zhang, Y. Guo, R. J. Donohue, T. R. McVicar, S. Ferrier, W. Müller, X. Lü, Y. Fang, X. Wang, P. B. Reich, X. Han, and K. Mokany (2024). Mapping the multidecadal trends of terrestrial plant nitrogen stable isotope ratios globally. Under Review.
 
 [15] F. Zhao, W. Ma, J. Zhao, Y. Guo, M. Tariq, and J. Li (2024). Global retrieval of the spectrum of terrestrial chlorophyll fluorescence: First results with TROPOMI. Remote Sensing of Environment, 300, 113903.
 
