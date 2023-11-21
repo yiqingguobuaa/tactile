@@ -5,11 +5,11 @@ layout: default
 
 ### Journal Articles
 
-[17] Y. Guo, K. Mokany, S. R. Levick, J. Yang, S. Ferrier, and P. Moghadam (2023). A geolocation-encoded Transformer architecture for plant species richness mapping in Australia with Landsat imagery. Under Review.
+[17] Y. Guo, K. Mokany, S. R. Levick, J. Yang, S. Ferrier, and P. Moghadam (2024). Spatioformer: A geolocation-encoded Transformer architecture for continental-scale plant species richness prediction and mapping. Under Review.
 
-[16] F. Zhao, W. Ma, J. Zhao, Y. Guo, and J. Li (2023).  Global reconstruction of the spectrum of terrestrial chlorophyll fluorescence: First Results With TROPOMI. Under Review.
+[16] J. Yang, H. Zhang, Y. Guo, R. J. Donohue, T. R. McVicar, S. Ferrier, W. Müller, X. Lü, Y. Fang, X. Wang, P. B. Reich, X. Han, and K. Mokany (2024). Multidecadal trends of terrestrial plant nitrogen availability uncovered by satellite. Under Review.
 
-[15] J. Yang, H. Zhang, Y. Guo, R. J. Donohue, T. R. McVicar, S. Ferrier, W. Müller, X. Lü, Y. Fang, X. Wang, P. B. Reich, X. Han, and K. Mokany (2023). Multidecadal trends of terrestrial plant nitrogen availability uncovered by satellite. Under Review.
+[15] F. Zhao, W. Ma, J. Zhao, Y. Guo, M. Tariq, and J. Li (2024). Global retrieval of the spectrum of terrestrial chlorophyll fluorescence: First results with TROPOMI. Remote Sensing of Environment, 300, 113903.
 
 [14] Y. Guo, K. Mokany, C. Ong, P. Moghadam, S. Ferrier, and S. R. Levick (2023). Plant biodiversity prediction with DESIS hyperspectral data. ISPRS Journal of Photogrammetry and Remote Sensing, 196, 120-133.
 
