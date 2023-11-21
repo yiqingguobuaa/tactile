@@ -9,58 +9,58 @@ layout: default
 
 [16] J. Yang, H. Zhang, Y. Guo, R. J. Donohue, T. R. McVicar, S. Ferrier, W. Müller, X. Lü, Y. Fang, X. Wang, P. B. Reich, X. Han, and K. Mokany (2024). Mapping the multidecadal trends of terrestrial plant nitrogen stable isotope ratios globally. Under Review.
 
-[15] F. Zhao, W. Ma, J. Zhao, Y. Guo, M. Tariq, and J. Li (2024). Global retrieval of the spectrum of terrestrial chlorophyll fluorescence: First results with TROPOMI. Remote Sensing of Environment, 300, 113903.
+[15] F. Zhao, W. Ma, J. Zhao, Y. Guo, M. Tariq, and J. Li (2024). Global retrieval of the spectrum of terrestrial chlorophyll fluorescence: First results with TROPOMI. _Remote Sensing of Environment_, _300_, 113903.
 
-[14] Y. Guo, K. Mokany, C. Ong, P. Moghadam, S. Ferrier, and S. R. Levick (2023). Plant biodiversity prediction with DESIS hyperspectral data. ISPRS Journal of Photogrammetry and Remote Sensing, 196, 120-133.
+[14] Y. Guo, K. Mokany, C. Ong, P. Moghadam, S. Ferrier, and S. R. Levick (2023). Plant biodiversity prediction with DESIS hyperspectral data. _ISPRS Journal of Photogrammetry and Remote Sensing_, _196_, 120-133.
 
-[13] Y. Guo, J. Zhang, A. Farooq, X. Chen, and X. Jia (2020). Activities of the IEEE GRSS University of New South Wales Canberra Student Chapter, Australia [Column Article]. IEEE Geoscience and Remote Sensing Magazine, 8(3), 102-103.
+[13] Y. Guo, J. Zhang, A. Farooq, X. Chen, and X. Jia (2020). Activities of the IEEE GRSS University of New South Wales Canberra Student Chapter, Australia [Column Article]. _IEEE Geoscience and Remote Sensing Magazine_, _8_(3), 102-103.
 
-[12] Y. Guo, X. Jia, D. Paull, and J. A. Benediktsson (2019). Nomination-favoured opinion pool for optical-SAR-synergistic rice mapping in face of weakened flooding signals. ISPRS Journal of Photogrammetry and Remote Sensing, 155, 187–205.
+[12] Y. Guo, X. Jia, D. Paull, and J. A. Benediktsson (2019). Nomination-favoured opinion pool for optical-SAR-synergistic rice mapping in face of weakened flooding signals. _ISPRS Journal of Photogrammetry and Remote Sensing_, _155_, 187–205.
 
-[11] F. Zhao, R. Li, W. Verhoef, S. Cogliati, X. Liu, Y. Huang, Y. Guo, and J. Huang (2018). Reconstruction of the full spectrum of solar-induced chlorophyll fluorescence: Intercomparison study for a novel method. Remote Sensing of Environment, 219, 233–246.
+[11] F. Zhao, R. Li, W. Verhoef, S. Cogliati, X. Liu, Y. Huang, Y. Guo, and J. Huang (2018). Reconstruction of the full spectrum of solar-induced chlorophyll fluorescence: Intercomparison study for a novel method. _Remote Sensing of Environment_, _219_, 233–246.
 
-[10] Y. Guo, X. Jia, and D. Paull (2018). Effective sequential classifier training for SVM-based multitemporal remote sensing image classification. IEEE Transactions on Image Processing, 27(6), 3036–3048.
+[10] Y. Guo, X. Jia, and D. Paull (2018). Effective sequential classifier training for SVM-based multitemporal remote sensing image classification. _IEEE Transactions on Image Processing_, _27_(6), 3036–3048.
 
-[9] Y. Guo, X. Jia, and D. Paull (2017). Superpixel-based adaptive kernel selection for angular effect normalization of remote sensing images with kernel learning. IEEE Transactions on Geoscience and Remote Sensing, 55(8), 4262–4271.
+[9] Y. Guo, X. Jia, and D. Paull (2017). Superpixel-based adaptive kernel selection for angular effect normalization of remote sensing images with kernel learning. _IEEE Transactions on Geoscience and Remote Sensing_, _55_(8), 4262–4271.
 
-[8] F. Zhao, X. Dai, W. Verhoef, Y. Guo, C. van der Tol, Y. Li, and Y. Huang (2016). FluorWPS: A Monte Carlo ray-tracing model to compute sun-induced chlorophyll fluorescence of three-dimensional canopy. Remote Sensing of Environment, 187, 385–399.
+[8] F. Zhao, X. Dai, W. Verhoef, Y. Guo, C. van der Tol, Y. Li, and Y. Huang (2016). FluorWPS: A Monte Carlo ray-tracing model to compute sun-induced chlorophyll fluorescence of three-dimensional canopy. _Remote Sensing of Environment_, _187_, 385–399.
 
-[7] F. Zhao, Y. Li, X. Dai, W. Verhoef, Y. Guo, H. Shang, X. Gu, Y. Huang, T. Yu, and J. Huang (2015). Simulated impact of sensor field of view and distance on field measurements of bidirectional reflectance factors for row crops. Remote Sensing of Environment, 156, 129–142. 
+[7] F. Zhao, Y. Li, X. Dai, W. Verhoef, Y. Guo, H. Shang, X. Gu, Y. Huang, T. Yu, and J. Huang (2015). Simulated impact of sensor field of view and distance on field measurements of bidirectional reflectance factors for row crops. _Remote Sensing of Environment_, _156_, 129–142. 
 
-[6] F. Zhao, Y. Guo, Y. Huang, W. Verhoef, C. van der Tol, B. Dai, L. Liu, H. Zhao, and G. Liu (2015). Quantitative estimation of fluorescence parameters for crop leaves with Bayesian inversion. Remote Sensing, 7(10), 14179–14199.
+[6] F. Zhao, Y. Guo, Y. Huang, W. Verhoef, C. van der Tol, B. Dai, L. Liu, H. Zhao, and G. Liu (2015). Quantitative estimation of fluorescence parameters for crop leaves with Bayesian inversion. _Remote Sensing_, _7_(10), 14179–14199.
 
-[5] F. Zhao, Y. Guo, Y. Huang, K. N. Reddy, Y. Zhao, and W. T. Molin (2015). Detection of the onset of glyphosate-induced soybean plant injury through chlorophyll fluorescence signal extraction and measurement. Journal of Applied Remote Sensing, 9(1), 097098.
+[5] F. Zhao, Y. Guo, Y. Huang, K. N. Reddy, Y. Zhao, and W. T. Molin (2015). Detection of the onset of glyphosate-induced soybean plant injury through chlorophyll fluorescence signal extraction and measurement. _Journal of Applied Remote Sensing_, _9_(1), 097098.
 
-[4] F. Zhao, Y. Guo, Y. Huang, K. N. Reddy, M. A. Lee, R. S. Fletcher, and S. J. Thomson (2014). Early detection of crop injury from herbicide glyphosate by leaf biochemical parameter inversion. International Journal of Applied Earth Observation and Geoinformation, 31, 78–85.
+[4] F. Zhao, Y. Guo, Y. Huang, K. N. Reddy, M. A. Lee, R. S. Fletcher, and S. J. Thomson (2014). Early detection of crop injury from herbicide glyphosate by leaf biochemical parameter inversion. _International Journal of Applied Earth Observation and Geoinformation_, _31_, 78–85.
 
-[3] F. Zhao, Y. Guo, W. Verhoef, X. Gu, L. Liu, and G. Yang (2014). A method to reconstruct solar-induced canopy fluorescence spectrum from hyperspectral measurements. Remote Sensing, 6(10), 10171–10192.
+[3] F. Zhao, Y. Guo, W. Verhoef, X. Gu, L. Liu, and G. Yang (2014). A method to reconstruct solar-induced canopy fluorescence spectrum from hyperspectral measurements. _Remote Sensing_, _6_(10), 10171–10192.
 
-[2] F. Zhao, Y. Huang, Y. Guo, K. N. Reddy, M. A. Lee, Reginald S. Fletcher, and Steven J. Thomson (2014). Early detection of crop injury from glyphosate on soybean and cotton using plant leaf hyperspectral data. Remote Sensing, 6(2), 1538–1563.
+[2] F. Zhao, Y. Huang, Y. Guo, K. N. Reddy, M. A. Lee, Reginald S. Fletcher, and Steven J. Thomson (2014). Early detection of crop injury from glyphosate on soybean and cotton using plant leaf hyperspectral data. _Remote Sensing_, _6_(2), 1538–1563.
 
-[1] F. Zhao, X. Gu, T. Yu, W. Verhoef, Y. Guo, Y. Du, H. Shang, and H. Zhao (2013). Bidirectional reflectance effects over flat land surface from the charge-coupled device data sets of the HJ-1A and HJ-1B satellites. Journal of Applied Remote Sensing, 7(1), 073466.
+[1] F. Zhao, X. Gu, T. Yu, W. Verhoef, Y. Guo, Y. Du, H. Shang, and H. Zhao (2013). Bidirectional reflectance effects over flat land surface from the charge-coupled device data sets of the HJ-1A and HJ-1B satellites. _Journal of Applied Remote Sensing_, _7_(1), 073466.
 
 
 ### Conference Papers
 
-[10] Y. Guo, K. Mokany, C. Ong, P. Moghadam, S. Ferrier, and S. R. Levick (2022). Quantitative assessment of DESIS hyperspectral data for plant biodiversity estimation in Australia. In Proceedings of the 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 1744-1747.
+[10] Y. Guo, K. Mokany, C. Ong, P. Moghadam, S. Ferrier, and S. R. Levick (2022). Quantitative assessment of DESIS hyperspectral data for plant biodiversity estimation in Australia. In _Proceedings of the 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 1744-1747.
 
-[9] Y. Guo, X. Jia, D. Paull, J. Zhang, A. Farooq, X. Chen, and M. N. Islam (2019). A drone-based sensing system to support satellite image analysis for rice farm mapping. In Proceedings of the 2019 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 9376–9379.
+[9] Y. Guo, X. Jia, D. Paull, J. Zhang, A. Farooq, X. Chen, and M. N. Islam (2019). A drone-based sensing system to support satellite image analysis for rice farm mapping. In _Proceedings of the 2019 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 9376–9379.
 
-[8] Y. Guo, X. Jia, and D. Paull (2018). Mapping of rice varieties with Sentinel-2 data via deep CNN learning in spectral and time domains. In Proceedings of the 2018 International Conference on Digital Image Computing: Techniques and Applications (DICTA), 794–800.
+[8] Y. Guo, X. Jia, and D. Paull (2018). Mapping of rice varieties with Sentinel-2 data via deep CNN learning in spectral and time domains. In _Proceedings of the 2018 International Conference on Digital Image Computing: Techniques and Applications (DICTA)_, 794–800.
 
-[7] Y. Guo, X. Jia, and D. Paull (2017). Sequential classifier training for rice mapping with multitemporal remote sensing imagery. In ISPRS Annals of Photogrammetry, Remote Sensing & Spatial Information Sciences, 4, 161–165. 
+[7] Y. Guo, X. Jia, and D. Paull (2017). Sequential classifier training for rice mapping with multitemporal remote sensing imagery. In _ISPRS Annals of Photogrammetry, Remote Sensing & Spatial Information Sciences_, _4_, 161–165. 
 
-[6] Y. Guo, X. Jia, and D. Paull (2017). A domain-transfer support vector machine for multi-temporal remote sensing imagery classification. In Proceedings of the 2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2215–2218. 
+[6] Y. Guo, X. Jia, and D. Paull (2017). A domain-transfer support vector machine for multi-temporal remote sensing imagery classification. In _Proceedings of the 2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2215–2218. 
 
-[5] Y. Guo, X. Jia, and D. Paull (2016). Multi-kernel retrieval of land surface bidirectional reflectance distribution functions based on l1-norm optimization. In Proceedings of the 2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 1358–1361.
+[5] Y. Guo, X. Jia, and D. Paull (2016). Multi-kernel retrieval of land surface bidirectional reflectance distribution functions based on l1-norm optimization. In _Proceedings of the 2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 1358–1361.
 
-[4] Y. Guo, F. Zhao, Y. Huang, K. N. Reddy, Y. Zhao, and L. Dong (2014). Detection of the onset of crop stress induced by glyphosate using chlorophyll fluorescence measurements. In Proceedings of the Third International Conference on Agro-Geoinformatics, 560–564. **Best Student Paper Award**
+[4] Y. Guo, F. Zhao, Y. Huang, K. N. Reddy, Y. Zhao, and L. Dong (2014). Detection of the onset of crop stress induced by glyphosate using chlorophyll fluorescence measurements. In _Proceedings of the Third International Conference on Agro-Geoinformatics_, 560–564. **Best Student Paper Award**
 
-[3] Y. Guo, F. Zhao, Y. Huang, M. A. Lee, K. N. Reddy, R. S. Fletcher, S. J. Thomson, and J. Huang (2013). Early detection of crop injury from glyphosate by foliar biochemical parameter inversion through leaf reflectance measurement. In Proceedings of the Second International Conference on Agro-Geoinformatics, 116–120. 
+[3] Y. Guo, F. Zhao, Y. Huang, M. A. Lee, K. N. Reddy, R. S. Fletcher, S. J. Thomson, and J. Huang (2013). Early detection of crop injury from glyphosate by foliar biochemical parameter inversion through leaf reflectance measurement. In _Proceedings of the Second International Conference on Agro-Geoinformatics_, 116–120. 
 
-[2] E. Madigan, Y. Guo, M. Pickering, A. Held, and X. Jia (2018). Quantitative monitoring of complete rice growing seasons using Sentinel 2 time series images. In Proceedings of the 2018 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 7699–7702.  
+[2] E. Madigan, Y. Guo, M. Pickering, A. Held, and X. Jia (2018). Quantitative monitoring of complete rice growing seasons using Sentinel 2 time series images. In _Proceedings of the 2018 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 7699–7702.  
 
-[1] P. Zhang, F. Zhao, Y. Guo, Y. Zhao, L. Dong, and H. Zhao (2014). Sensitivity analysis of the row model’s input parameters. In Proceedings of the Third International Conference on Agro-Geoinformatics, 220–224.
+[1] P. Zhang, F. Zhao, Y. Guo, Y. Zhao, L. Dong, and H. Zhao (2014). Sensitivity analysis of the row model’s input parameters. In _Proceedings of the Third International Conference on Agro-Geoinformatics_, 220–224.
 
 
 ### Conference Abstracts
