@@ -5,9 +5,7 @@ layout: default
 
 | Time Period            | Professional Experience                     |
 |------------------------|------------------------------------------------------------------|
-| 2023.02 — Present      | **Research Scientist**                                          |
-|                        | Data61, CSIRO, Canberra, Australia                              |
-|                        | I am a Research Scientist supported by the Dorothy Hill Fellowship at CSIRO, where I work for the AquaWatch Australia mission, striving to develop innovative solutions for water-related applications using remote sensing data and artificial intelligence methods. |
+| 2023.02 — Present      | **Research Scientist** <br> Data61, CSIRO, Canberra, Australia <br> I am a Research Scientist supported by the Dorothy Hill Fellowship at CSIRO, where I work for the AquaWatch Australia mission, striving to develop innovative solutions for water-related applications using remote sensing data and artificial intelligence methods.|
 |------------------------|------------------------------------------------------------------|
 | 2020.11 — 2023.01      | **Postdoctoral Research Fellow**                                |
 |                        | Land and Water, CSIRO, Canberra, Australia                       |
