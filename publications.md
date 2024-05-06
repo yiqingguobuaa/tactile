@@ -11,7 +11,7 @@ layout: default
 
 [15] F. Zhao, W. Ma, J. Zhao, Y. Guo, M. Tariq, and J. Li (2024). Global retrieval of the spectrum of terrestrial chlorophyll fluorescence: First results with TROPOMI. _Remote Sensing of Environment_, _300_, 113903.
 
-[14] Y. Guo, K. Mokany, C. Ong, P. Moghadam, S. Ferrier, and S. R. Levick (2023). Plant biodiversity prediction with DESIS hyperspectral data. _ISPRS Journal of Photogrammetry and Remote Sensing_, _196_, 120-133.
+[14] Y. Guo, K. Mokany, C. Ong, P. Moghadam, S. Ferrier, and S. R. Levick (2023). Plant species richness prediction from DESIS hyperspectral data: A comparison study on feature extraction procedures and regression models. _ISPRS Journal of Photogrammetry and Remote Sensing_, _196_, 120-133.
 
 [13] Y. Guo, J. Zhang, A. Farooq, X. Chen, and X. Jia (2020). Activities of the IEEE GRSS University of New South Wales Canberra Student Chapter, Australia [Column Article]. _IEEE Geoscience and Remote Sensing Magazine_, _8_(3), 102-103.
 
