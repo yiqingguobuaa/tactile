@@ -8,7 +8,7 @@ layout: default
 
 ### **About me**
 
-Hi, my name is Yiqing Guo. Currently, I am a Research Scientist at CSIRO, Australia.
+Hi, my name is Yiqing Guo. Currently, I am a Research Scientist at CSIRO, Australia. [Google Scholar]([https://link-url-here.org](https://scholar.google.com.au/citations?hl=en&user=RIVnOZsAAAAJ&view_op=list_works&sortby=pubdate))
 
 I study remote sensing and machine learning, and apply these exciting techniques to agricultural, ecological
 and environmental problems.
