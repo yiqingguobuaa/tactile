@@ -65,46 +65,47 @@ layout: default
 
 ### Conference Abstracts
 
-[2] J. Yang, H. Zhang, Y. Guo, R. J. Donohue, T. R. McVicar, S. Ferrier, W. Müller, X. Lü, Y. Fang, X. Wang, P. B. Reich, X. Han, and K. Mokany (2023). Developing satellite-derived nitrogen stable isotope ratio grids to globally monitor terrestrial plant nitrogen availability for 1984-2022. The 25th International Congress on Modelling and Simulation.
+[2] Y. Guo, N. Cherukuru, E. A. Lehmann, S. L. K. Unnithan, X. Qi, R. Woodcock (2024). Monitoring the spatiotemporal dynamics of sea surface temperature in Spencer Gulf with high-resolution satellite imagery. The 2024 Advancing Earth Observation Forum.
 
-[1] Y. Guo, K. Mokany, P. Moghadam, S. Ferrier, and S. R. Levick (2022). Mapping Plant Biodiversity in
-Australia from Landsat: A Deep Learning Approach. Advancing Earth Observation Forum 2022.
+[1] Y. Guo, K. Mokany, P. Moghadam, S. Ferrier, and S. R. Levick (2022). Mapping plant biodiversity in Australia from Landsat: A deep learning approach. The 2022 Advancing Earth Observation Forum.
 
 ### Conference Presentations
 
+[10] Oral Presentation: Y. Guo, Mapping Plant Biodiversity in Australia from Landsat: A Deep Learning Approach, presented at the 2022 Advancing Earth Observation Forum (AEO2022), 22–25 August 2022, Brisbane, Australia. 
+
 [9] Oral Presentation: Y. Guo, Quantitative assessment of DESIS hyperspectral data for plant biodiversity
 estimation in Australia, presented at the 2022 IEEE International Geoscience and Remote Sensing Symposium
-(IGARSS), 17-22 July 2022, Kuala Lumpur, Malaysia (Online).
+(IGARSS2022), 17–22 July 2022, Kuala Lumpur, Malaysia (Online).
 
 [8] Video Presentation: Y. Guo, Plant biodiversity mapping with satellite imagery, presented at the 2022
-Machine Learning and Artificial Intelligence Reimagining Science (MARS2022), 31 May-1 June 2022, Sydney,
+Machine Learning and Artificial Intelligence Reimagining Science (MARS2022), 31 May–1 June 2022, Sydney,
 Australia.
 
 [7] Video Presentation: Y. Guo, Self-supervised learning for biodiversity, presented at the 2021 Machine
-Learning and Artificial Intelligence Reimagining Science (MARS2021), 1-2nd June 2021, Online.
+Learning and Artificial Intelligence Reimagining Science (MARS2021), 1–2 June 2021, Online.
 
 [6] Oral Presentation: Y. Guo, A drone-based sensing system to support satellite image analysis for rice farm
-mapping, presented at the 2019 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 28
+mapping, presented at the 2019 IEEE International Geoscience and Remote Sensing Symposium (IGARSS2019), 28
 July–2 August 2019, Yokohama, Japan.
 
 [5] Poster Presentation: Y. Guo, Mapping of rice varieties with Sentinel-2 data via deep CNN learning in
 spectral and time domains, presented at the 2018 International Conference on Digital Image Computing:
-Techniques and Applications (DICTA), 10–13 December 2018, Canberra, Australia.
+Techniques and Applications (DICTA2018), 10–13 December 2018, Canberra, Australia.
 
 [4] Oral Presentation: Y. Guo, Sequential classifier training for rice mapping with multitemporal remote
-sensing imagery, presented at the 2nd International Symposium on Spatiotemporal Computing 2017, 7–9
+sensing imagery, presented at the 2nd International Symposium on Spatiotemporal Computing (ISSC2017), 7–9
 August 2017, Cambridge, USA.
 
 [3] Oral Presentation: Y. Guo, A domain-transfer support vector machine for multi-temporal remote sensing
 imagery classification, presented at the 2017 IEEE International Geoscience and Remote Sensing Symposium
-(IGARSS), 23–28 July 2017, Fort Worth, USA.
+(IGARSS2017), 23–28 July 2017, Fort Worth, USA.
 
 [2] Poster Presentation: Y. Guo, Multi-kernel retrieval of land surface bidirectional reflectance distribution
 functions based on l1-norm optimization, presented at the 2016 IEEE International Geoscience and Remote
-Sensing Symposium, 10–15 July 2016, Beijing, China.
+Sensing Symposium (IGARSS2016), 10–15 July 2016, Beijing, China.
 
 [1] Oral Presentation: Y. Guo, Early detection of crop injury from glyphosate by foliar biochemical
-parameter inversion through leaf reflectance measurement, presented at the Third International Conference
+parameter inversion through leaf reflectance measurement, presented at the 3rd International Conference
 on Agro-Geoinformatics, 11–14 August 2014, Beijing, China.
 
 ### Theses
