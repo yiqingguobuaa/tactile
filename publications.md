@@ -46,7 +46,7 @@ layout: default
 
 ### Conference Papers
 
-[10] Y. Guo, K. Mokany, C. Ong, P. Moghadam, S. Ferrier, and S. R. Levick (2022). Quantitative assessment of DESIS hyperspectral data for plant biodiversity estimation in Australia. In _Proceedings of the 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 1744-1747.
+[10] Y. Guo, K. Mokany, C. Ong, P. Moghadam, S. Ferrier, and S. R. Levick (2022). Quantitative assessment of DESIS hyperspectral data for plant biodiversity estimation in Australia. In _Proceedings of the 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 1744–1747.
 
 [9] Y. Guo, X. Jia, D. Paull, J. Zhang, A. Farooq, X. Chen, and M. N. Islam (2019). A drone-based sensing system to support satellite image analysis for rice farm mapping. In _Proceedings of the 2019 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 9376–9379.
 
