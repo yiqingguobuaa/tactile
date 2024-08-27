@@ -67,50 +67,72 @@ layout: default
 [1] P. Zhang, F. Zhao, Y. Guo, Y. Zhao, L. Dong, and H. Zhao (2014). Sensitivity analysis of the row model’s input parameters. In _Proceedings of the Third International Conference on Agro-Geoinformatics_, 220–224.
 
 
-### Conference Abstracts
-
-[2] Y. Guo, N. Cherukuru, E. A. Lehmann, S. L. K. Unnithan, X. Qi, R. Woodcock (2024). Monitoring the spatiotemporal dynamics of sea surface temperature in Spencer Gulf with high-resolution satellite imagery. The 2024 Advancing Earth Observation Forum.
-
-[1] Y. Guo, K. Mokany, P. Moghadam, S. Ferrier, and S. R. Levick (2022). Mapping plant biodiversity in Australia from Landsat: A deep learning approach. The 2022 Advancing Earth Observation Forum.
-
 ### Conference Presentations
 
-[10] Oral Presentation: Y. Guo, Mapping Plant Biodiversity in Australia from Landsat: A Deep Learning Approach, presented at the 2022 Advancing Earth Observation Forum (AEO2022), 22–25 August 2022, Brisbane, Australia. 
+[13] Oral Presentation. Title: Long-term monitoring of water quality at the Fitzroy Estuary and Keppel Bay regions with Landsat-8 timeseries imagery.
+Presented at the AMSA-NZMSS 2024 Conference, Hobart, Australia, 16--20 September 2024.
 
-[9] Oral Presentation: Y. Guo, Quantitative assessment of DESIS hyperspectral data for plant biodiversity
-estimation in Australia, presented at the 2022 IEEE International Geoscience and Remote Sensing Symposium
-(IGARSS2022), 17–22 July 2022, Kuala Lumpur, Malaysia (Online).
+[12] Oral Presentation. Title: Monitoring the Spatiotemporal dynamics of sea surface temperature in Spencer Gulf with high-resolution satellite imagery. 
+Presented at the 2024 Advancing Earth Observation Forum, Adelaide, Australia, 10--12 September, 2024.
 
-[8] Video Presentation: Y. Guo, Plant biodiversity mapping with satellite imagery, presented at the 2022
-Machine Learning and Artificial Intelligence Reimagining Science (MARS2022), 31 May–1 June 2022, Sydney,
-Australia.
+[11] Poster Presentation. Title: Monitoring of water surface nitrate in complex estuarine waters with hyperspectral measurements.
+Presented at the 2024 Ocean Modelling and Observation Workshop, Canberra, Australia, 2--4 July 2024.
 
-[7] Video Presentation: Y. Guo, Self-supervised learning for biodiversity, presented at the 2021 Machine
-Learning and Artificial Intelligence Reimagining Science (MARS2021), 1–2 June 2021, Online.
+[10] Oral Presentation. Title: Mapping plant biodiversity in Australia from Landsat: A deep learning approach,
+presented at the 2022 Advancing Earth Observation Forum (AEO2022), 22–25 August 2022, Brisbane, Australia. 
 
-[6] Oral Presentation: Y. Guo, A drone-based sensing system to support satellite image analysis for rice farm
-mapping, presented at the 2019 IEEE International Geoscience and Remote Sensing Symposium (IGARSS2019), 28
-July–2 August 2019, Yokohama, Japan.
+[9] Oral Presentation. Title: Quantitative assessment of DESIS hyperspectral data for plant biodiversity
+estimation in Australia. Presented at the 2022 IEEE International Geoscience and Remote Sensing Symposium
+(IGARSS2022), Kuala Lumpur, Malaysia (Online), 17–22 July 2022.
 
-[5] Poster Presentation: Y. Guo, Mapping of rice varieties with Sentinel-2 data via deep CNN learning in
-spectral and time domains, presented at the 2018 International Conference on Digital Image Computing:
-Techniques and Applications (DICTA2018), 10–13 December 2018, Canberra, Australia.
+[8] Video Presentation. Title: Plant biodiversity mapping with satellite imagery, presented at the 2022
+Machine Learning and Artificial Intelligence Reimagining Science (MARS2022), Sydney,
+Australia, 31 May–1 June 2022.
 
-[4] Oral Presentation: Y. Guo, Sequential classifier training for rice mapping with multitemporal remote
-sensing imagery, presented at the 2nd International Symposium on Spatiotemporal Computing (ISSC2017), 7–9
-August 2017, Cambridge, USA.
+[7] Video Presentation. Title: Self-supervised learning for biodiversity. Presented at the 2021 Machine
+Learning and Artificial Intelligence Reimagining Science (MARS2021), Online, 1–2 June 2021.
 
-[3] Oral Presentation: Y. Guo, A domain-transfer support vector machine for multi-temporal remote sensing
-imagery classification, presented at the 2017 IEEE International Geoscience and Remote Sensing Symposium
-(IGARSS2017), 23–28 July 2017, Fort Worth, USA.
+[6] Oral Presentation. Title: A drone-based sensing system to support satellite image analysis for rice farm
+mapping. Presented at the 2019 IEEE International Geoscience and Remote Sensing Symposium (IGARSS2019), Yokohama, Japan, 28
+July–2 August 2019.
 
-[2] Poster Presentation: Y. Guo, Multi-kernel retrieval of land surface bidirectional reflectance distribution
-functions based on l1-norm optimization, presented at the 2016 IEEE International Geoscience and Remote
-Sensing Symposium (IGARSS2016), 10–15 July 2016, Beijing, China.
+[5] Poster Presentation. Title: Mapping of rice varieties with Sentinel-2 data via deep CNN learning in
+spectral and time domains. Presented at the 2018 International Conference on Digital Image Computing:
+Techniques and Applications (DICTA2018), Canberra, Australia, 10–13 December 2018.
 
-[1] Oral Presentation: Y. Guo, Early detection of crop injury from glyphosate by foliar biochemical
-parameter inversion through leaf reflectance measurement, presented at the 3rd International Conference
-on Agro-Geoinformatics, 11–14 August 2014, Beijing, China.
+[4] Oral Presentation. Title: Sequential classifier training for rice mapping with multitemporal remote
+sensing imagery. Presented at the 2nd International Symposium on Spatiotemporal Computing (ISSC2017), Boston, USA, 7–9
+August 2017.
+
+[3] Oral Presentation. Title: A domain-transfer support vector machine for multi-temporal remote sensing
+imagery classification. Presented at the 2017 IEEE International Geoscience and Remote Sensing Symposium
+(IGARSS2017), Fort Worth, USA, 23–28 July 2017.
+
+[2] Poster Presentation. Title: Multi-kernel retrieval of land surface bidirectional reflectance distribution
+functions based on l1-norm optimization. Presented at the 2016 IEEE International Geoscience and Remote
+Sensing Symposium (IGARSS2016), Beijing, China, 10–15 July 2016.
+
+[1] Oral Presentation. Title: Early detection of crop injury from glyphosate by foliar biochemical
+parameter inversion through leaf reflectance measurement. Presented at the 3rd International Conference
+on Agro-Geoinformatics, Beijing, China, 11–14 August 2014.
+
+### Technical Reports
+
+[1] I. C. Lau, C. C. H. Ong, Y. Guo, and M. Caccetta (2023). A 10-year analysis of Landsat 8 continental imagery to identify candidate sites for optical vicarious calibration and validation in Australia. CSIRO Report EP2023-5606.
+
+### Published Codes
+
+[3] Yang, Jinyan; Zhang, Haiyang; Guo, Yiqing; Donohue, Randall; McVicar, Tim; Ferrier, Simon; Muller, Warren; Lv, Xiaotao; Fang, Yunting; Wang, Xiaoguang; Reich, Peter; Han, Xingguo; & Mokany, Karel (2024): A framework to estimate nitrogen stable isotope ratio from satellite spectra. CSIRO. v1. Software. https://doi.org/10.25919/6ahe-e170
+
+[2] Yang, Jinyan; Guo, Yiqing; Owers, Chris; Giljohann, Kate; Valavi, Roozbeh; Donohue, Randall; Williams, Kristen; Ferrier, Simon; & Mokany, Karel (2024): FACTE: A framework for dynamic assessments of terrestrial ecosystem condition. CSIRO. v1. Software. https://doi.org/10.25919/e6gt-hd02
+
+[1] Yiqing Guo, Xiuping Jia, David Paull (2018) TASVM: A domain-transfer support vector machine for classifier-level domain adaptation [Source Code]. https://doi.org/10.24433/CO.9d860e02-91b0-4a6a-850d-d4f52754ca33
+
+### Published Datasets
+
+[2] Yang, Jinyan; Guo, Yiqing; Owers, Chris; Giljohann, Kate; Valavi, Roozbeh; Donohue, Randall; Williams, Kristen; Ferrier, Simon; & Mokany, Karel (2024): Annual terrestrial ecosystem condition score map for Australia derived using the FACTE framework: 100m, 2013-2022. v1. CSIRO. Data Collection. https://doi.org/10.25919/k5cv-ss32
+
+[1] Yang, Jinyan; Zhang, Haiyang; Guo, Yiqing; Donohue, Randall; McVicar, Tim; Ferrier, Simon; Muller, Warren; Lv, Xiaotao; Fang, Yunting; Wang, Xiaoguang; Reich, Peter; Han, Xingguo; & Mokany, Karel (2024): Global terrestrial plant nitrogen stable isotope ratio samples: 30m centroid of each 0.1 degree grid cell from 1984 to 2022. v1. CSIRO. Data Collection. https://doi.org/10.25919/7069-6855
 
 ### Theses
 
