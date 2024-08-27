@@ -7,7 +7,7 @@ layout: default
 
 [19] S. L. K. Unnithan, N. Cherukuru, T. Ingleton, N. Drayson, Y. Guo, and G. Kerrisk (2024). Impact of catchment rainfall-runoff on coastal water quality using deep learning enhanced remote sensing. Under Review.
 
-[18] J. Yang, Y. Guo, C. J. Owers, K. Gilgohann, R. Valavi, R. Donohue, K. . Williams, S. Ferrier, and K. Mokany (2024). A framework for dynamic assessments of terrestrial ecosystem condition. Under Review.
+[18] J. Yang, Y. Guo, C. J. Owers, K. Gilgohann, R. Valavi, R. Donohue, K. Williams, S. Ferrier, and K. Mokany (2024). A framework for dynamic assessments of terrestrial ecosystem condition. Under Review.
 
 [17] Y. Guo, K. Mokany, S. R. Levick, J. Yang, S. Ferrier, and P. Moghadam (2024). Spatioformer: A geolocation-encoded Transformer architecture for continental-scale plant species richness prediction and mapping. Under Review.
 
