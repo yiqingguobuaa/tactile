@@ -46,25 +46,25 @@ layout: default
 
 ### Conference Papers
 
-[10] Y. Guo, K. Mokany, C. Ong, P. Moghadam, S. Ferrier, and S. R. Levick (2022). Quantitative assessment of DESIS hyperspectral data for plant biodiversity estimation in Australia. In _Proceedings of the 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 1744–1747.
+[10] Y. Guo, K. Mokany, C. Ong, P. Moghadam, S. Ferrier, and S. R. Levick (2022). Quantitative assessment of DESIS hyperspectral data for plant biodiversity estimation in Australia. In _Proceedings of the 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 1744--1747.
 
-[9] Y. Guo, X. Jia, D. Paull, J. Zhang, A. Farooq, X. Chen, and M. N. Islam (2019). A drone-based sensing system to support satellite image analysis for rice farm mapping. In _Proceedings of the 2019 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 9376–9379.
+[9] Y. Guo, X. Jia, D. Paull, J. Zhang, A. Farooq, X. Chen, and M. N. Islam (2019). A drone-based sensing system to support satellite image analysis for rice farm mapping. In _Proceedings of the 2019 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 9376--9379.
 
-[8] Y. Guo, X. Jia, and D. Paull (2018). Mapping of rice varieties with Sentinel-2 data via deep CNN learning in spectral and time domains. In _Proceedings of the 2018 International Conference on Digital Image Computing: Techniques and Applications (DICTA)_, 794–800.
+[8] Y. Guo, X. Jia, and D. Paull (2018). Mapping of rice varieties with Sentinel-2 data via deep CNN learning in spectral and time domains. In _Proceedings of the 2018 International Conference on Digital Image Computing: Techniques and Applications (DICTA)_, 794--800.
 
-[7] Y. Guo, X. Jia, and D. Paull (2017). Sequential classifier training for rice mapping with multitemporal remote sensing imagery. In _ISPRS Annals of Photogrammetry, Remote Sensing & Spatial Information Sciences_, _4_, 161–165. 
+[7] E. Madigan, Y. Guo, M. Pickering, A. Held, and X. Jia (2018). Quantitative monitoring of complete rice growing seasons using Sentinel 2 time series images. In _Proceedings of the 2018 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 7699--7702.  
 
-[6] Y. Guo, X. Jia, and D. Paull (2017). A domain-transfer support vector machine for multi-temporal remote sensing imagery classification. In _Proceedings of the 2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2215–2218. 
+[6] Y. Guo, X. Jia, and D. Paull (2017). Sequential classifier training for rice mapping with multitemporal remote sensing imagery. In _ISPRS Annals of Photogrammetry, Remote Sensing & Spatial Information Sciences_, _4_, 161--165. 
 
-[5] Y. Guo, X. Jia, and D. Paull (2016). Multi-kernel retrieval of land surface bidirectional reflectance distribution functions based on l1-norm optimization. In _Proceedings of the 2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 1358–1361.
+[5] Y. Guo, X. Jia, and D. Paull (2017). A domain-transfer support vector machine for multi-temporal remote sensing imagery classification. In _Proceedings of the 2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2215--2218. 
 
-[4] Y. Guo, F. Zhao, Y. Huang, K. N. Reddy, Y. Zhao, and L. Dong (2014). Detection of the onset of crop stress induced by glyphosate using chlorophyll fluorescence measurements. In _Proceedings of the Third International Conference on Agro-Geoinformatics_, 560–564. **Best Student Paper Award**
+[4] Y. Guo, X. Jia, and D. Paull (2016). Multi-kernel retrieval of land surface bidirectional reflectance distribution functions based on l1-norm optimization. In _Proceedings of the 2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 1358--1361.
 
-[3] Y. Guo, F. Zhao, Y. Huang, M. A. Lee, K. N. Reddy, R. S. Fletcher, S. J. Thomson, and J. Huang (2013). Early detection of crop injury from glyphosate by foliar biochemical parameter inversion through leaf reflectance measurement. In _Proceedings of the Second International Conference on Agro-Geoinformatics_, 116–120. 
+[3] Y. Guo, F. Zhao, Y. Huang, K. N. Reddy, Y. Zhao, and L. Dong (2014). Detection of the onset of crop stress induced by glyphosate using chlorophyll fluorescence measurements. In _Proceedings of the Third International Conference on Agro-Geoinformatics_, 560--564. **Best Student Paper Award**
 
-[2] E. Madigan, Y. Guo, M. Pickering, A. Held, and X. Jia (2018). Quantitative monitoring of complete rice growing seasons using Sentinel 2 time series images. In _Proceedings of the 2018 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 7699–7702.  
+[2] P. Zhang, F. Zhao, Y. Guo, Y. Zhao, L. Dong, and H. Zhao (2014). Sensitivity analysis of the row model’s input parameters. In _Proceedings of the Third International Conference on Agro-Geoinformatics_, 220--224.
 
-[1] P. Zhang, F. Zhao, Y. Guo, Y. Zhao, L. Dong, and H. Zhao (2014). Sensitivity analysis of the row model’s input parameters. In _Proceedings of the Third International Conference on Agro-Geoinformatics_, 220–224.
+[1] Y. Guo, F. Zhao, Y. Huang, M. A. Lee, K. N. Reddy, R. S. Fletcher, S. J. Thomson, and J. Huang (2013). Early detection of crop injury from glyphosate by foliar biochemical parameter inversion through leaf reflectance measurement. In _Proceedings of the Second International Conference on Agro-Geoinformatics_, 116--120. 
 
 
 ### Conference Presentations
@@ -79,42 +79,42 @@ Presented at the 2024 Advancing Earth Observation Forum, Adelaide, Australia, 10
 Presented at the 2024 Ocean Modelling and Observation Workshop, Canberra, Australia, 2--4 July 2024.
 
 [10] Oral Presentation. Title: Mapping plant biodiversity in Australia from Landsat: A deep learning approach,
-presented at the 2022 Advancing Earth Observation Forum (AEO2022), 22–25 August 2022, Brisbane, Australia. 
+presented at the 2022 Advancing Earth Observation Forum (AEO2022), Brisbane, Australia, 22--25 August 2022. 
 
 [9] Oral Presentation. Title: Quantitative assessment of DESIS hyperspectral data for plant biodiversity
 estimation in Australia. Presented at the 2022 IEEE International Geoscience and Remote Sensing Symposium
-(IGARSS2022), Kuala Lumpur, Malaysia (Online), 17–22 July 2022.
+(IGARSS2022), Kuala Lumpur, Malaysia (Online), 17--22 July 2022.
 
 [8] Video Presentation. Title: Plant biodiversity mapping with satellite imagery, presented at the 2022
 Machine Learning and Artificial Intelligence Reimagining Science (MARS2022), Sydney,
-Australia, 31 May–1 June 2022.
+Australia, 31 May--1 June 2022.
 
 [7] Video Presentation. Title: Self-supervised learning for biodiversity. Presented at the 2021 Machine
-Learning and Artificial Intelligence Reimagining Science (MARS2021), Online, 1–2 June 2021.
+Learning and Artificial Intelligence Reimagining Science (MARS2021), Online, 1--2 June 2021.
 
 [6] Oral Presentation. Title: A drone-based sensing system to support satellite image analysis for rice farm
 mapping. Presented at the 2019 IEEE International Geoscience and Remote Sensing Symposium (IGARSS2019), Yokohama, Japan, 28
-July–2 August 2019.
+July--2 August 2019.
 
 [5] Poster Presentation. Title: Mapping of rice varieties with Sentinel-2 data via deep CNN learning in
 spectral and time domains. Presented at the 2018 International Conference on Digital Image Computing:
-Techniques and Applications (DICTA2018), Canberra, Australia, 10–13 December 2018.
+Techniques and Applications (DICTA2018), Canberra, Australia, 10--13 December 2018.
 
 [4] Oral Presentation. Title: Sequential classifier training for rice mapping with multitemporal remote
-sensing imagery. Presented at the 2nd International Symposium on Spatiotemporal Computing (ISSC2017), Boston, USA, 7–9
+sensing imagery. Presented at the 2nd International Symposium on Spatiotemporal Computing (ISSC2017), Boston, USA, 7--9
 August 2017.
 
 [3] Oral Presentation. Title: A domain-transfer support vector machine for multi-temporal remote sensing
 imagery classification. Presented at the 2017 IEEE International Geoscience and Remote Sensing Symposium
-(IGARSS2017), Fort Worth, USA, 23–28 July 2017.
+(IGARSS2017), Fort Worth, USA, 23--28 July 2017.
 
 [2] Poster Presentation. Title: Multi-kernel retrieval of land surface bidirectional reflectance distribution
 functions based on l1-norm optimization. Presented at the 2016 IEEE International Geoscience and Remote
-Sensing Symposium (IGARSS2016), Beijing, China, 10–15 July 2016.
+Sensing Symposium (IGARSS2016), Beijing, China, 10--15 July 2016.
 
 [1] Oral Presentation. Title: Early detection of crop injury from glyphosate by foliar biochemical
 parameter inversion through leaf reflectance measurement. Presented at the 3rd International Conference
-on Agro-Geoinformatics, Beijing, China, 11–14 August 2014.
+on Agro-Geoinformatics, Beijing, China, 11--14 August 2014.
 
 ### Technical Reports
 
