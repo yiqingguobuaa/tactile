@@ -72,7 +72,7 @@ layout: default
 [13] Oral Presentation. Title: Long-term monitoring of water quality at the Fitzroy Estuary and Keppel Bay regions with Landsat-8 timeseries imagery.
 Presented at the AMSA-NZMSS 2024 Conference, Hobart, Australia, 16--20 September 2024.
 
-[12] Oral Presentation. Title: Monitoring the Spatiotemporal dynamics of sea surface temperature in Spencer Gulf with high-resolution satellite imagery. 
+[12] Oral Presentation. Title: Monitoring the spatiotemporal dynamics of sea surface temperature in Spencer Gulf with high-resolution satellite imagery. 
 Presented at the 2024 Advancing Earth Observation Forum, Adelaide, Australia, 10--12 September, 2024.
 
 [11] Poster Presentation. Title: Monitoring of water surface nitrate in complex estuarine waters with hyperspectral measurements.
