@@ -66,8 +66,41 @@ layout: default
 
 [1] Y. Guo, F. Zhao, Y. Huang, M. A. Lee, K. N. Reddy, R. S. Fletcher, S. J. Thomson, and J. Huang (2013). Early detection of crop injury from glyphosate by foliar biochemical parameter inversion through leaf reflectance measurement. In _Proceedings of the Second International Conference on Agro-Geoinformatics_, 116--120. 
 
+### Technical Reports
 
-### Conference Presentations
+[1] Lau, Ian; Ong, Cindy; Caccetta, Mike; Guo, Yiqing. A 10-Year Analysis of Landsat 8 Continental Imagery to Identify Candidate Sites for Optical Vicarious Calibration and Validation in Australia. Australia: CSIRO; 2023. csiro:EP2023-5606. http://hdl.handle.net/102.100.100/609152?index=1
+
+### Published Codes
+
+[3] Yang, Jinyan; Zhang, Haiyang; Guo, Yiqing; Donohue, Randall; McVicar, Tim; Ferrier, Simon; Muller, Warren; Lv, Xiaotao; Fang, Yunting; Wang, Xiaoguang; Reich, Peter; Han, Xingguo; & Mokany, Karel (2024): A framework to estimate nitrogen stable isotope ratio from satellite spectra. CSIRO. v1. Software. https://doi.org/10.25919/6ahe-e170
+
+[2] Yang, Jinyan; Guo, Yiqing; Owers, Chris; Giljohann, Kate; Valavi, Roozbeh; Donohue, Randall; Williams, Kristen; Ferrier, Simon; & Mokany, Karel (2024): FACTE: A framework for dynamic assessments of terrestrial ecosystem condition. CSIRO. v1. Software. https://doi.org/10.25919/e6gt-hd02
+
+[1] Yiqing Guo, Xiuping Jia, David Paull (2018) TASVM: A domain-transfer support vector machine for classifier-level domain adaptation [Source Code]. https://doi.org/10.24433/CO.9d860e02-91b0-4a6a-850d-d4f52754ca33
+
+### Published Datasets
+
+[2] Yang, Jinyan; Guo, Yiqing; Owers, Chris; Giljohann, Kate; Valavi, Roozbeh; Donohue, Randall; Williams, Kristen; Ferrier, Simon; & Mokany, Karel (2024): Annual terrestrial ecosystem condition score map for Australia derived using the FACTE framework: 100m, 2013-2022. v1. CSIRO. Data Collection. https://doi.org/10.25919/k5cv-ss32
+
+[1] Yang, Jinyan; Zhang, Haiyang; Guo, Yiqing; Donohue, Randall; McVicar, Tim; Ferrier, Simon; Muller, Warren; Lv, Xiaotao; Fang, Yunting; Wang, Xiaoguang; Reich, Peter; Han, Xingguo; & Mokany, Karel (2024): Global terrestrial plant nitrogen stable isotope ratio samples: 30m centroid of each 0.1 degree grid cell from 1984 to 2022. v1. CSIRO. Data Collection. https://doi.org/10.25919/7069-6855
+
+### Theses
+
+[2] Y. Guo (2019). Quantitative rice mapping with remote sensing image time series. PhD Thesis. The
+University of New South Wales.
+
+[1] Y. Guo (2015). Early detection of crop stress with hyperspectral remote sensing data. Master’s Thesis.
+Beihang University [In Chinese]. **Excellent Thesis Award**
+
+### Granted Patents
+
+[2] F. Zhao and Y. Guo (2014). A method for spectral feature extraction from hyperspectral reflectance data
+based on global sensitivity analysis. Patent Grant No.: CN103714341A
+
+[1] F. Zhang, Y. Guo, P. Zhang, Y. Zhao, and H. Zhao (2014). A method for retrieval of field component
+temperature based on global optimization algorithm. Patent Grant No.: CN103823994A
+
+### Presentations
 
 [13] Oral Presentation. Title: Long-term monitoring of water quality at the Fitzroy Estuary and Keppel Bay regions with Landsat-8 timeseries imagery.
 Presented at the AMSA-NZMSS 2024 Conference (AMSA2024), Hobart, Australia, 16--20 September 2024.
@@ -115,39 +148,5 @@ Sensing Symposium (IGARSS2016), Beijing, China, 10--15 July 2016.
 [1] Oral Presentation. Title: Early detection of crop injury from glyphosate by foliar biochemical
 parameter inversion through leaf reflectance measurement. Presented at the 3rd International Conference
 on Agro-Geoinformatics, Beijing, China, 11--14 August 2014.
-
-### Technical Reports
-
-[1] I. C. Lau, C. C. H. Ong, Y. Guo, and M. Caccetta (2023). A 10-year analysis of Landsat 8 continental imagery to identify candidate sites for optical vicarious calibration and validation in Australia. CSIRO Report EP2023-5606.
-
-### Published Codes
-
-[3] Yang, Jinyan; Zhang, Haiyang; Guo, Yiqing; Donohue, Randall; McVicar, Tim; Ferrier, Simon; Muller, Warren; Lv, Xiaotao; Fang, Yunting; Wang, Xiaoguang; Reich, Peter; Han, Xingguo; & Mokany, Karel (2024): A framework to estimate nitrogen stable isotope ratio from satellite spectra. CSIRO. v1. Software. https://doi.org/10.25919/6ahe-e170
-
-[2] Yang, Jinyan; Guo, Yiqing; Owers, Chris; Giljohann, Kate; Valavi, Roozbeh; Donohue, Randall; Williams, Kristen; Ferrier, Simon; & Mokany, Karel (2024): FACTE: A framework for dynamic assessments of terrestrial ecosystem condition. CSIRO. v1. Software. https://doi.org/10.25919/e6gt-hd02
-
-[1] Yiqing Guo, Xiuping Jia, David Paull (2018) TASVM: A domain-transfer support vector machine for classifier-level domain adaptation [Source Code]. https://doi.org/10.24433/CO.9d860e02-91b0-4a6a-850d-d4f52754ca33
-
-### Published Datasets
-
-[2] Yang, Jinyan; Guo, Yiqing; Owers, Chris; Giljohann, Kate; Valavi, Roozbeh; Donohue, Randall; Williams, Kristen; Ferrier, Simon; & Mokany, Karel (2024): Annual terrestrial ecosystem condition score map for Australia derived using the FACTE framework: 100m, 2013-2022. v1. CSIRO. Data Collection. https://doi.org/10.25919/k5cv-ss32
-
-[1] Yang, Jinyan; Zhang, Haiyang; Guo, Yiqing; Donohue, Randall; McVicar, Tim; Ferrier, Simon; Muller, Warren; Lv, Xiaotao; Fang, Yunting; Wang, Xiaoguang; Reich, Peter; Han, Xingguo; & Mokany, Karel (2024): Global terrestrial plant nitrogen stable isotope ratio samples: 30m centroid of each 0.1 degree grid cell from 1984 to 2022. v1. CSIRO. Data Collection. https://doi.org/10.25919/7069-6855
-
-### Theses
-
-[2] Y. Guo (2019). Quantitative rice mapping with remote sensing image time series. PhD Thesis. The
-University of New South Wales.
-
-[1] Y. Guo (2015). Early detection of crop stress with hyperspectral remote sensing data. Master’s Thesis.
-Beihang University [In Chinese]. **Excellent Thesis Award**
-
-### Granted Patents
-
-[2] F. Zhao and Y. Guo (2014). A method for spectral feature extraction from hyperspectral reflectance data
-based on global sensitivity analysis. Patent Grant No.: CN103714341A
-
-[1] F. Zhang, Y. Guo, P. Zhang, Y. Zhao, and H. Zhao (2014). A method for retrieval of field component
-temperature based on global optimization algorithm. Patent Grant No.: CN103823994A
 
 
