@@ -5,6 +5,8 @@ layout: default
 
 ### Journal Articles
 
+[20] C. Luo, W. Xiang, K. Han, L. Yu, Y. Guo, S. L. K. Unnithan, X. Qi, and N. Cherukuru (2024). HyperEst: Context-aware self-supervised water quality estimation from hyperspectral imagery. Under Review.
+
 [19] S. L. K. Unnithan, N. Cherukuru, T. Ingleton, N. Drayson, Y. Guo, and G. Kerrisk (2024). Impact of catchment rainfall-runoff on coastal water quality using deep learning enhanced remote sensing. Under Review.
 
 [18] J. Yang, Y. Guo, C. J. Owers, K. Gilgohann, R. Valavi, R. Donohue, K. Williams, S. Ferrier, and K. Mokany (2024). A framework for dynamic assessments of terrestrial ecosystem condition. Under Review.
