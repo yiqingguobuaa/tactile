@@ -70,7 +70,7 @@ layout: default
 
 ### Technical Reports
 
-[1] Lau, Ian; Ong, Cindy; Caccetta, Mike; Guo, Yiqing. A 10-Year Analysis of Landsat 8 Continental Imagery to Identify Candidate Sites for Optical Vicarious Calibration and Validation in Australia. Australia: CSIRO; 2023. csiro:EP2023-5606. http://hdl.handle.net/102.100.100/609152?index=1
+[1] Lau, Ian; Ong, Cindy; Caccetta, Mike; Guo, Yiqing. A 10-Year Analysis of Landsat 8 Continental Imagery to Identify Candidate Sites for Optical Vicarious Calibration and Validation in Australia. Australia: CSIRO; 2023. csiro:EP2023-5606. https://doi.org/10.25919/dxg8-8w19
 
 ### Published Codes
 
