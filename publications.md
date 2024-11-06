@@ -82,11 +82,11 @@ layout: default
 
 ### Published Datasets
 
-[3] Lau, Ian; Ong, Cindy; Guo, Yiqing; Caccetta, Mike; Squire, Geoffrey; & Woodcock, Robert (2023): Landsat 8 Continental Analysis of Australia. v1. CSIRO. Data Collection. https://doi.org/10.25919/25p4-5r08
+[3] Yang, Jinyan; Guo, Yiqing; Owers, Chris; Giljohann, Kate; Valavi, Roozbeh; Donohue, Randall; Williams, Kristen; Ferrier, Simon; & Mokany, Karel (2024): Annual terrestrial ecosystem condition score map for Australia derived using the FACTE framework: 100m, 2013-2022. v1. CSIRO. Data Collection. https://doi.org/10.25919/k5cv-ss32
 
-[2] Yang, Jinyan; Guo, Yiqing; Owers, Chris; Giljohann, Kate; Valavi, Roozbeh; Donohue, Randall; Williams, Kristen; Ferrier, Simon; & Mokany, Karel (2024): Annual terrestrial ecosystem condition score map for Australia derived using the FACTE framework: 100m, 2013-2022. v1. CSIRO. Data Collection. https://doi.org/10.25919/k5cv-ss32
+[2] Yang, Jinyan; Zhang, Haiyang; Guo, Yiqing; Donohue, Randall; McVicar, Tim; Ferrier, Simon; Muller, Warren; Lv, Xiaotao; Fang, Yunting; Wang, Xiaoguang; Reich, Peter; Han, Xingguo; & Mokany, Karel (2024): Global terrestrial plant nitrogen stable isotope ratio samples: 30m centroid of each 0.1 degree grid cell from 1984 to 2022. v1. CSIRO. Data Collection. https://doi.org/10.25919/7069-6855
 
-[1] Yang, Jinyan; Zhang, Haiyang; Guo, Yiqing; Donohue, Randall; McVicar, Tim; Ferrier, Simon; Muller, Warren; Lv, Xiaotao; Fang, Yunting; Wang, Xiaoguang; Reich, Peter; Han, Xingguo; & Mokany, Karel (2024): Global terrestrial plant nitrogen stable isotope ratio samples: 30m centroid of each 0.1 degree grid cell from 1984 to 2022. v1. CSIRO. Data Collection. https://doi.org/10.25919/7069-6855
+[1] Lau, Ian; Ong, Cindy; Guo, Yiqing; Caccetta, Mike; Squire, Geoffrey; & Woodcock, Robert (2023): Landsat 8 Continental Analysis of Australia. v1. CSIRO. Data Collection. https://doi.org/10.25919/25p4-5r08
 
 ### Theses
 
