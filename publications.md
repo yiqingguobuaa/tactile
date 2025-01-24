@@ -74,6 +74,8 @@ layout: default
 
 ### Open Source Codes
 
+[4] Y. Guo, K. Mokany, S. R. Levick, J. Yang, and P. Moghadam (2025). Spatioformer. https://github.com/csiro-robotics/Spatioformer
+
 [3] Yang, Jinyan; Zhang, Haiyang; Guo, Yiqing; Donohue, Randall; McVicar, Tim; Ferrier, Simon; Muller, Warren; Lv, Xiaotao; Fang, Yunting; Wang, Xiaoguang; Reich, Peter; Han, Xingguo; & Mokany, Karel (2024): A framework to estimate nitrogen stable isotope ratio from satellite spectra. CSIRO. v1. Software. https://doi.org/10.25919/6ahe-e170
 
 [2] Yang, Jinyan; Guo, Yiqing; Owers, Chris; Giljohann, Kate; Valavi, Roozbeh; Donohue, Randall; Williams, Kristen; Ferrier, Simon; & Mokany, Karel (2024): FACTE: A framework for dynamic assessments of terrestrial ecosystem condition. CSIRO. v1. Software. https://doi.org/10.25919/e6gt-hd02
