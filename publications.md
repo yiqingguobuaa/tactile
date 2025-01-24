@@ -5,15 +5,15 @@ layout: default
 
 ### Journal Articles
 
-[20] C. Luo, W. Xiang, K. Han, L. Yu, Y. Guo, S. L. K. Unnithan, X. Qi, and N. Cherukuru (2024). HyperEst: Context-aware self-supervised water quality estimation from hyperspectral imagery. Under Review.
+[20] C. Luo, W. Xiang, K. Han, L. Yu, Y. Guo, S. L. K. Unnithan, X. Qi, and N. Cherukuru (2025). HyperEst: Context-aware self-supervised water quality estimation from hyperspectral imagery. Under Review.
 
-[19] S. L. K. Unnithan, N. Cherukuru, T. Ingleton, N. Drayson, Y. Guo, and G. Kerrisk (2024). Impact of catchment rainfall-runoff on coastal water quality using deep learning enhanced remote sensing. Under Review.
+[19] S. L. K. Unnithan, N. Cherukuru, T. Ingleton, N. Drayson, Y. Guo, and G. Kerrisk (2025). Impact of catchment rainfall-runoff on coastal water quality using deep learning enhanced remote sensing. Under Review.
 
-[18] J. Yang, Y. Guo, C. J. Owers, K. Gilgohann, R. Valavi, R. Donohue, K. Williams, S. Ferrier, and K. Mokany (2024). A framework for dynamic assessments of terrestrial ecosystem condition. Under Review.
+[18] J. Yang, Y. Guo, C. J. Owers, K. Gilgohann, R. Valavi, R. Donohue, K. Williams, S. Ferrier, and K. Mokany (2025). A framework for dynamic assessments of terrestrial ecosystem condition. Under Review.
 
-[17] Y. Guo, K. Mokany, S. R. Levick, J. Yang, S. Ferrier, and P. Moghadam (2024). Spatioformer: A geolocation-encoded Transformer architecture for continental-scale plant species richness prediction and mapping. Under Review.
+[17] J. Yang, H. Zhang, Y. Guo, R. J. Donohue, T. R. McVicar, S. Ferrier, W. Müller, X. Lü, Y. Fang, X. Wang, P. B. Reich, X. Han, and K. Mokany (2025). Mapping the multidecadal trends of terrestrial plant nitrogen stable isotope ratios globally. Under Review.
 
-[16] J. Yang, H. Zhang, Y. Guo, R. J. Donohue, T. R. McVicar, S. Ferrier, W. Müller, X. Lü, Y. Fang, X. Wang, P. B. Reich, X. Han, and K. Mokany (2024). Mapping the multidecadal trends of terrestrial plant nitrogen stable isotope ratios globally. Under Review.
+[16] Y. Guo, K. Mokany, S. R. Levick, J. Yang, and P. Moghadam (2025). Spatioformer: A geo-encoded transformer for large-scale plant species richness prediction. _IEEE Transactions on Geoscience and Remote Sensing_.
 
 [15] F. Zhao, W. Ma, J. Zhao, Y. Guo, M. Tariq, and J. Li (2024). Global retrieval of the spectrum of terrestrial chlorophyll fluorescence: First results with TROPOMI. _Remote Sensing of Environment_, _300_, 113903.
 
@@ -72,7 +72,7 @@ layout: default
 
 [1] Lau, Ian; Ong, Cindy; Guo, Yiqing; Caccetta, Mike. A 10-Year Analysis of Landsat 8 Continental Imagery to Identify Candidate Sites for Optical Vicarious Calibration and Validation in Australia. Australia: CSIRO; 2023. csiro:EP2023-5606. https://doi.org/10.25919/dxg8-8w19
 
-### Published Codes
+### Open Source Codes
 
 [3] Yang, Jinyan; Zhang, Haiyang; Guo, Yiqing; Donohue, Randall; McVicar, Tim; Ferrier, Simon; Muller, Warren; Lv, Xiaotao; Fang, Yunting; Wang, Xiaoguang; Reich, Peter; Han, Xingguo; & Mokany, Karel (2024): A framework to estimate nitrogen stable isotope ratio from satellite spectra. CSIRO. v1. Software. https://doi.org/10.25919/6ahe-e170
 
@@ -81,6 +81,8 @@ layout: default
 [1] Yiqing Guo, Xiuping Jia, David Paull (2018) TASVM: A domain-transfer support vector machine for classifier-level domain adaptation [Source Code]. https://doi.org/10.24433/CO.9d860e02-91b0-4a6a-850d-d4f52754ca33
 
 ### Published Datasets
+
+[4] Guo, Yiqing; Mokany, Karel; Levick, Shaun; Yang, Jinyan; & Moghadam, Peyman (2024): AusRichness: A machine learning ready dataset for plant species richness prediction in Australia. v1. CSIRO. Data Collection. https://doi.org/10.25919/7d5h-yp05
 
 [3] Yang, Jinyan; Guo, Yiqing; Owers, Chris; Giljohann, Kate; Valavi, Roozbeh; Donohue, Randall; Williams, Kristen; Ferrier, Simon; & Mokany, Karel (2024): Annual terrestrial ecosystem condition score map for Australia derived using the FACTE framework: 100m, 2013-2022. v1. CSIRO. Data Collection. https://doi.org/10.25919/k5cv-ss32
 
